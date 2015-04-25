@@ -1,0 +1,9 @@
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.pdb
